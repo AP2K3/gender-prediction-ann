@@ -1,6 +1,10 @@
 import numpy as np
 
 '''
+person_weights in lb, 
+person_heights in inches, 
+person_gender in 1 for female and 0 for male
+
 Base data:
 person_weights = [133, 160, 152, 120]
 person_heights = [65, 72, 70, 60]
